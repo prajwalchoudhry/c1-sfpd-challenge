@@ -38,7 +38,7 @@ section {
 
 #charts-subtitle{ 
 
-  transform: translate(0%, -125%);
+  transform: translate(0%, -150%);
 
 }
 
@@ -79,7 +79,7 @@ section {
 }
 
 #heat-maps-subtitle{
-  transform: translate(0%, -150%);
+  transform: translate(0%, -200%);
 
 }
 
