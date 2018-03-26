@@ -1,0 +1,409 @@
+call_type ,received_timestamp,frequency
+Alarms,12:00 AM,25
+Alarms,1:00 AM,24
+Alarms,2:00 AM,15
+Alarms,3:00 AM,15
+Alarms,4:00 AM,35
+Alarms,5:00 AM,21
+Alarms,6:00 AM,21
+Alarms,7:00 AM,15
+Alarms,8:00 AM,39
+Alarms,9:00 AM,61
+Alarms,10:00 AM,68
+Alarms,11:00 AM,58
+Alarms,12:00 PM,62
+Alarms,1:00 PM,37
+Alarms,2:00 PM,70
+Alarms,3:00 PM,89
+Alarms,4:00 PM,65
+Alarms,5:00 PM,49
+Alarms,6:00 PM,62
+Alarms,7:00 PM,72
+Alarms,8:00 PM,52
+Alarms,9:00 PM,34
+Alarms,10:00 PM,39
+Alarms,11:00 PM,38
+Citizen Assist / Service Call,12:00 AM,1
+Citizen Assist / Service Call,1:00 AM,3
+Citizen Assist / Service Call,2:00 AM,2
+Citizen Assist / Service Call,3:00 AM,2
+Citizen Assist / Service Call,4:00 AM,2
+Citizen Assist / Service Call,5:00 AM,0
+Citizen Assist / Service Call,6:00 AM,8
+Citizen Assist / Service Call,7:00 AM,1
+Citizen Assist / Service Call,8:00 AM,8
+Citizen Assist / Service Call,9:00 AM,6
+Citizen Assist / Service Call,10:00 AM,6
+Citizen Assist / Service Call,11:00 AM,12
+Citizen Assist / Service Call,12:00 PM,5
+Citizen Assist / Service Call,1:00 PM,6
+Citizen Assist / Service Call,2:00 PM,10
+Citizen Assist / Service Call,3:00 PM,2
+Citizen Assist / Service Call,4:00 PM,10
+Citizen Assist / Service Call,5:00 PM,7
+Citizen Assist / Service Call,6:00 PM,6
+Citizen Assist / Service Call,7:00 PM,3
+Citizen Assist / Service Call,8:00 PM,4
+Citizen Assist / Service Call,9:00 PM,2
+Citizen Assist / Service Call,10:00 PM,5
+Citizen Assist / Service Call,11:00 PM,3
+Electrical Hazard ,12:00 AM,0
+Electrical Hazard ,1:00 AM,0
+Electrical Hazard ,2:00 AM,0
+Electrical Hazard ,3:00 AM,1
+Electrical Hazard ,4:00 AM,0
+Electrical Hazard ,5:00 AM,0
+Electrical Hazard ,6:00 AM,0
+Electrical Hazard ,7:00 AM,0
+Electrical Hazard ,8:00 AM,1
+Electrical Hazard ,9:00 AM,1
+Electrical Hazard ,10:00 AM,1
+Electrical Hazard ,11:00 AM,3
+Electrical Hazard ,12:00 PM,0
+Electrical Hazard ,1:00 PM,4
+Electrical Hazard ,2:00 PM,0
+Electrical Hazard ,3:00 PM,1
+Electrical Hazard ,4:00 PM,1
+Electrical Hazard ,5:00 PM,1
+Electrical Hazard ,6:00 PM,1
+Electrical Hazard ,7:00 PM,2
+Electrical Hazard ,8:00 PM,1
+Electrical Hazard ,9:00 PM,2
+Electrical Hazard ,10:00 PM,0
+Electrical Hazard ,11:00 PM,1
+Elevator / Escalator Rescue,12:00 AM,0
+Elevator / Escalator Rescue,1:00 AM,0
+Elevator / Escalator Rescue,2:00 AM,0
+Elevator / Escalator Rescue,3:00 AM,0
+Elevator / Escalator Rescue,4:00 AM,0
+Elevator / Escalator Rescue,5:00 AM,0
+Elevator / Escalator Rescue,6:00 AM,0
+Elevator / Escalator Rescue,7:00 AM,0
+Elevator / Escalator Rescue,8:00 AM,1
+Elevator / Escalator Rescue,9:00 AM,0
+Elevator / Escalator Rescue,10:00 AM,0
+Elevator / Escalator Rescue,11:00 AM,3
+Elevator / Escalator Rescue,12:00 PM,2
+Elevator / Escalator Rescue,1:00 PM,2
+Elevator / Escalator Rescue,2:00 PM,3
+Elevator / Escalator Rescue,3:00 PM,1
+Elevator / Escalator Rescue,4:00 PM,3
+Elevator / Escalator Rescue,5:00 PM,2
+Elevator / Escalator Rescue,6:00 PM,3
+Elevator / Escalator Rescue,7:00 PM,1
+Elevator / Escalator Rescue,8:00 PM,0
+Elevator / Escalator Rescue,9:00 PM,1
+Elevator / Escalator Rescue,10:00 PM,1
+Elevator / Escalator Rescue,11:00 PM,0
+Fuel Spill,12:00 AM,0
+Fuel Spill,1:00 AM,0
+Fuel Spill,2:00 AM,0
+Fuel Spill,3:00 AM,0
+Fuel Spill,4:00 AM,0
+Fuel Spill,5:00 AM,0
+Fuel Spill,6:00 AM,0
+Fuel Spill,7:00 AM,0
+Fuel Spill,8:00 AM,0
+Fuel Spill,9:00 AM,0
+Fuel Spill,10:00 AM,0
+Fuel Spill,11:00 AM,0
+Fuel Spill,12:00 PM,3
+Fuel Spill,1:00 PM,0
+Fuel Spill,2:00 PM,0
+Fuel Spill,3:00 PM,0
+Fuel Spill,4:00 PM,0
+Fuel Spill,5:00 PM,0
+Fuel Spill,6:00 PM,3
+Fuel Spill,7:00 PM,4
+Fuel Spill,8:00 PM,0
+Fuel Spill,9:00 PM,0
+Fuel Spill,10:00 PM,0
+Fuel Spill,11:00 PM,0
+Gas Leak,12:00 AM,0
+Gas Leak,1:00 AM,0
+Gas Leak,2:00 AM,0
+Gas Leak,3:00 AM,3
+Gas Leak,4:00 AM,0
+Gas Leak,5:00 AM,5
+Gas Leak,6:00 AM,0
+Gas Leak,7:00 AM,0
+Gas Leak,8:00 AM,5
+Gas Leak,9:00 AM,11
+Gas Leak,10:00 AM,7
+Gas Leak,11:00 AM,3
+Gas Leak,12:00 PM,13
+Gas Leak,1:00 PM,3
+Gas Leak,2:00 PM,13
+Gas Leak,3:00 PM,2
+Gas Leak,4:00 PM,2
+Gas Leak,5:00 PM,1
+Gas Leak,6:00 PM,1
+Gas Leak,7:00 PM,2
+Gas Leak,8:00 PM,7
+Gas Leak,9:00 PM,2
+Gas Leak,10:00 PM,6
+Gas Leak,11:00 PM,0
+HazMat,12:00 AM,0
+HazMat,1:00 AM,0
+HazMat,2:00 AM,0
+HazMat,3:00 AM,0
+HazMat,4:00 AM,0
+HazMat,5:00 AM,0
+HazMat,6:00 AM,0
+HazMat,7:00 AM,3
+HazMat,8:00 AM,0
+HazMat,9:00 AM,0
+HazMat,10:00 AM,0
+HazMat,11:00 AM,0
+HazMat,12:00 PM,0
+HazMat,1:00 PM,0
+HazMat,2:00 PM,0
+HazMat,3:00 PM,0
+HazMat,4:00 PM,0
+HazMat,5:00 PM,0
+HazMat,6:00 PM,0
+HazMat,7:00 PM,0
+HazMat,8:00 PM,0
+HazMat,9:00 PM,0
+HazMat,10:00 PM,0
+HazMat,11:00 PM,0
+Medical Incident,12:00 AM,235
+Medical Incident,1:00 AM,214
+Medical Incident,2:00 AM,202
+Medical Incident,3:00 AM,166
+Medical Incident,4:00 AM,129
+Medical Incident,5:00 AM,126
+Medical Incident,6:00 AM,176
+Medical Incident,7:00 AM,204
+Medical Incident,8:00 AM,244
+Medical Incident,9:00 AM,371
+Medical Incident,10:00 AM,329
+Medical Incident,11:00 AM,366
+Medical Incident,12:00 PM,347
+Medical Incident,1:00 PM,350
+Medical Incident,2:00 PM,376
+Medical Incident,3:00 PM,361
+Medical Incident,4:00 PM,418
+Medical Incident,5:00 PM,346
+Medical Incident,6:00 PM,361
+Medical Incident,7:00 PM,316
+Medical Incident,8:00 PM,327
+Medical Incident,9:00 PM,272
+Medical Incident,10:00 PM,325
+Medical Incident,11:00 PM,230
+Odor,12:00 AM,1
+Odor,1:00 AM,0
+Odor,2:00 AM,0
+Odor,3:00 AM,0
+Odor,4:00 AM,0
+Odor,5:00 AM,0
+Odor,6:00 AM,0
+Odor,7:00 AM,0
+Odor,8:00 AM,0
+Odor,9:00 AM,3
+Odor,10:00 AM,0
+Odor,11:00 AM,0
+Odor,12:00 PM,0
+Odor,1:00 PM,1
+Odor,2:00 PM,0
+Odor,3:00 PM,1
+Odor,4:00 PM,0
+Odor,5:00 PM,0
+Odor,6:00 PM,1
+Odor,7:00 PM,1
+Odor,8:00 PM,0
+Odor,9:00 PM,1
+Odor,10:00 PM,0
+Odor,11:00 PM,1
+Other ,12:00 AM,6
+Other ,1:00 AM,2
+Other ,2:00 AM,3
+Other ,3:00 AM,1
+Other ,4:00 AM,2
+Other ,5:00 AM,1
+Other ,6:00 AM,6
+Other ,7:00 AM,6
+Other ,8:00 AM,3
+Other ,9:00 AM,5
+Other ,10:00 AM,3
+Other ,11:00 AM,18
+Other ,12:00 PM,10
+Other ,1:00 PM,14
+Other ,2:00 PM,3
+Other ,3:00 PM,15
+Other ,4:00 PM,2
+Other ,5:00 PM,4
+Other ,6:00 PM,15
+Other ,7:00 PM,10
+Other ,8:00 PM,5
+Other ,9:00 PM,2
+Other ,10:00 PM,2
+Other ,11:00 PM,2
+Outside Fire,12:00 AM,6
+Outside Fire,1:00 AM,14
+Outside Fire,2:00 AM,4
+Outside Fire,3:00 AM,6
+Outside Fire,4:00 AM,7
+Outside Fire,5:00 AM,7
+Outside Fire,6:00 AM,4
+Outside Fire,7:00 AM,9
+Outside Fire,8:00 AM,1
+Outside Fire,9:00 AM,3
+Outside Fire,10:00 AM,13
+Outside Fire,11:00 AM,4
+Outside Fire,12:00 PM,9
+Outside Fire,1:00 PM,1
+Outside Fire,2:00 PM,3
+Outside Fire,3:00 PM,7
+Outside Fire,4:00 PM,2
+Outside Fire,5:00 PM,2
+Outside Fire,6:00 PM,2
+Outside Fire,7:00 PM,16
+Outside Fire,8:00 PM,9
+Outside Fire,9:00 PM,4
+Outside Fire,10:00 PM,6
+Outside Fire,11:00 PM,4
+Smoke Investigation ,12:00 AM,0
+Smoke Investigation ,1:00 AM,0
+Smoke Investigation ,2:00 AM,0
+Smoke Investigation ,3:00 AM,0
+Smoke Investigation ,4:00 AM,0
+Smoke Investigation ,5:00 AM,1
+Smoke Investigation ,6:00 AM,0
+Smoke Investigation ,7:00 AM,0
+Smoke Investigation ,8:00 AM,1
+Smoke Investigation ,9:00 AM,0
+Smoke Investigation ,10:00 AM,0
+Smoke Investigation ,11:00 AM,0
+Smoke Investigation ,12:00 PM,0
+Smoke Investigation ,1:00 PM,3
+Smoke Investigation ,2:00 PM,0
+Smoke Investigation ,3:00 PM,0
+Smoke Investigation ,4:00 PM,0
+Smoke Investigation ,5:00 PM,0
+Smoke Investigation ,6:00 PM,3
+Smoke Investigation ,7:00 PM,2
+Smoke Investigation ,8:00 PM,2
+Smoke Investigation ,9:00 PM,3
+Smoke Investigation ,10:00 PM,0
+Smoke Investigation ,11:00 PM,0
+Structure Fire,12:00 AM,24
+Structure Fire,1:00 AM,18
+Structure Fire,2:00 AM,53
+Structure Fire,3:00 AM,9
+Structure Fire,4:00 AM,16
+Structure Fire,5:00 AM,25
+Structure Fire,6:00 AM,35
+Structure Fire,7:00 AM,38
+Structure Fire,8:00 AM,22
+Structure Fire,9:00 AM,33
+Structure Fire,10:00 AM,55
+Structure Fire,11:00 AM,24
+Structure Fire,12:00 PM,101
+Structure Fire,1:00 PM,40
+Structure Fire,2:00 PM,41
+Structure Fire,3:00 PM,73
+Structure Fire,4:00 PM,48
+Structure Fire,5:00 PM,47
+Structure Fire,6:00 PM,30
+Structure Fire,7:00 PM,95
+Structure Fire,8:00 PM,61
+Structure Fire,9:00 PM,22
+Structure Fire,10:00 PM,46
+Structure Fire,11:00 PM,73
+Traffic Collision,12:00 AM,2
+Traffic Collision,1:00 AM,8
+Traffic Collision,2:00 AM,11
+Traffic Collision,3:00 AM,2
+Traffic Collision,4:00 AM,6
+Traffic Collision,5:00 AM,7
+Traffic Collision,6:00 AM,4
+Traffic Collision,7:00 AM,27
+Traffic Collision,8:00 AM,23
+Traffic Collision,9:00 AM,8
+Traffic Collision,10:00 AM,13
+Traffic Collision,11:00 AM,18
+Traffic Collision,12:00 PM,36
+Traffic Collision,1:00 PM,27
+Traffic Collision,2:00 PM,16
+Traffic Collision,3:00 PM,24
+Traffic Collision,4:00 PM,31
+Traffic Collision,5:00 PM,21
+Traffic Collision,6:00 PM,40
+Traffic Collision,7:00 PM,25
+Traffic Collision,8:00 PM,19
+Traffic Collision,9:00 PM,19
+Traffic Collision,10:00 PM,6
+Traffic Collision,11:00 PM,17
+Train / Rail Incident,12:00 AM,0
+Train / Rail Incident,1:00 AM,0
+Train / Rail Incident,2:00 AM,0
+Train / Rail Incident,3:00 AM,0
+Train / Rail Incident,4:00 AM,27
+Train / Rail Incident,5:00 AM,0
+Train / Rail Incident,6:00 AM,0
+Train / Rail Incident,7:00 AM,0
+Train / Rail Incident,8:00 AM,0
+Train / Rail Incident,9:00 AM,0
+Train / Rail Incident,10:00 AM,0
+Train / Rail Incident,11:00 AM,11
+Train / Rail Incident,12:00 PM,0
+Train / Rail Incident,1:00 PM,0
+Train / Rail Incident,2:00 PM,0
+Train / Rail Incident,3:00 PM,0
+Train / Rail Incident,4:00 PM,0
+Train / Rail Incident,5:00 PM,0
+Train / Rail Incident,6:00 PM,0
+Train / Rail Incident,7:00 PM,0
+Train / Rail Incident,8:00 PM,0
+Train / Rail Incident,9:00 PM,17
+Train / Rail Incident,10:00 PM,0
+Train / Rail Incident,11:00 PM,0
+Vehicle Fire,12:00 AM,4
+Vehicle Fire,1:00 AM,0
+Vehicle Fire,2:00 AM,13
+Vehicle Fire,3:00 AM,0
+Vehicle Fire,4:00 AM,0
+Vehicle Fire,5:00 AM,0
+Vehicle Fire,6:00 AM,2
+Vehicle Fire,7:00 AM,0
+Vehicle Fire,8:00 AM,0
+Vehicle Fire,9:00 AM,0
+Vehicle Fire,10:00 AM,0
+Vehicle Fire,11:00 AM,2
+Vehicle Fire,12:00 PM,0
+Vehicle Fire,1:00 PM,0
+Vehicle Fire,2:00 PM,0
+Vehicle Fire,3:00 PM,1
+Vehicle Fire,4:00 PM,0
+Vehicle Fire,5:00 PM,4
+Vehicle Fire,6:00 PM,5
+Vehicle Fire,7:00 PM,0
+Vehicle Fire,8:00 PM,0
+Vehicle Fire,9:00 PM,2
+Vehicle Fire,10:00 PM,5
+Vehicle Fire,11:00 PM,0
+Water Rescue ,12:00 AM,0
+Water Rescue ,1:00 AM,0
+Water Rescue ,2:00 AM,0
+Water Rescue ,3:00 AM,0
+Water Rescue ,4:00 AM,0
+Water Rescue ,5:00 AM,0
+Water Rescue ,6:00 AM,0
+Water Rescue ,7:00 AM,0
+Water Rescue ,8:00 AM,0
+Water Rescue ,9:00 AM,0
+Water Rescue ,10:00 AM,22
+Water Rescue ,11:00 AM,0
+Water Rescue ,12:00 PM,0
+Water Rescue ,1:00 PM,0
+Water Rescue ,2:00 PM,0
+Water Rescue ,3:00 PM,0
+Water Rescue ,4:00 PM,13
+Water Rescue ,5:00 PM,0
+Water Rescue ,6:00 PM,0
+Water Rescue ,7:00 PM,19
+Water Rescue ,8:00 PM,0
+Water Rescue ,9:00 PM,0
+Water Rescue ,10:00 PM,0
+Water Rescue ,11:00 PM,0

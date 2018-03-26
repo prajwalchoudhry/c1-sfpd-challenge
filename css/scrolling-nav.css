@@ -1,0 +1,172 @@
+
+header {
+  padding: 500px 0 100px;
+  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("https://images.pexels.com/photos/258447/pexels-photo-258447.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-size: cover; 
+  /*
+    Image is not copyrighted.  
+  */ 
+}
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+section {
+  padding: 225px 0;
+}
+
+.navbar{
+  opacity: 0.7;
+}
+
+#background-title{
+  position: relative; 
+  transform: translate(0%, -450%);
+}
+
+#background-subtitle{
+
+  transform: translate(0%, -750%);
+}
+
+#charts-title{ 
+
+  transform: translate(0%, -500%);
+}
+
+#charts-subtitle{ 
+
+  transform: translate(0%, -125%);
+
+}
+
+#myChart{ 
+
+  transform: translate(0%, -45%);
+}
+
+#graphOne-title{
+
+  transform: translate(0%, -600%);
+}
+
+#graphOne-explanation{
+
+  transform: translate(0%, -200%);
+
+}
+
+#graphTwo-title{
+
+  transform: translate(0%, -450%);
+}
+
+#chartOne{ 
+
+  transform: translate(0%, -35%);
+}
+
+#graphTwo-explanation{
+ 
+  transform: translate(0%, -115%);
+}
+
+#heat-maps-title{ 
+  
+  transform: translate(0%, -500%);
+}
+
+#heat-maps-subtitle{
+  transform: translate(0%, -150%);
+
+}
+
+#graphThree-title{
+  
+  transform: translate(0%, -300%);
+
+}
+
+#chartThree{
+  
+  transform: translate(0%, -23.5%);
+}
+
+#graphThree-explanation{
+
+  transform: translate(0%, -60%);
+}
+
+#dispatch-freq-title{
+  
+  transform: translate(45%, -100%);
+}
+  
+#map{
+  transform: translate(-35%, -40%);
+}
+
+
+
+#dispatch-freq-explanation{
+  font-size: 1.2em;
+  transform: translate(45%, -500%);
+}
+
+#map2{
+  transform: translate(-35%, -60%);
+}
+
+#map3{
+  transform: translate(-35%, -85%);
+}
+
+
+#urgency-title{
+  transform: translate(45%, -400%);
+}
+#urgency-explanation{
+  font-size: 1.2em; 
+  transform: translate(45%, -450%);
+}
+
+#crime{
+  transform: translate(45%, -700%);
+}
+
+#crime-explanation{
+  transform: translate(45%, -390%);
+}
+
+#dispatch-title{
+  position: relative;  
+  
+}
+#location-input{ 
+  width: 700px; 
+}
+#time-text{
+  transform: translate(0%, -80%); 
+}
+#time-input{
+  transform: translate(0%, -60%);
+}
+#output{
+  transform: translate(0%, 60%); 
+}
+.fa {
+  padding: 15px;
+  font-size: 25px; 
+  color: #FFF; 
+  transform: translate(960%, 0%);
+}
+
+.fa:hover{
+  color: #D5D5D5;
+  text-decoration: none;
+
+}
+
+
